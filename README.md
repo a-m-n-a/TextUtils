@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+I didnt host the project yet so to run and see the working of it you will need to clone it to your PC and then write npm run start in the terminal of vscode.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
